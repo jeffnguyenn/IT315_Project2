@@ -5,7 +5,7 @@
       "Address": "7326 Little River Turnpike ste a, Annandale, VA 22003",
       "Hours": "8:00 AM - 10:00 PM",
       "CafeURL": "https://www.google.com/maps/place/Manoa+Bakery+Cafe/@38.830948,-77.1999147,17z/data=!3m1!4b1!4m6!3m5!1s0x89b64cd26307ca97:0x6c8ce1458e3fd91a!8m2!3d38.830948!4d-77.197726!16s%2Fg%2F11b8ym5rwk",
-      "ImageRef": "manoa_logo.png",
+      "ImageRef": "https://raw.githubusercontent.com/jeffnguyenn/IT315_Project2/master/manoa_logo.png",
       "Rating": "⭐️⭐️⭐️⭐️"
     },
 
@@ -14,7 +14,7 @@
       "Address": "7039 Little River Turnpike, Annandale, VA 22003",
       "Hours": "7:00 AM - 9:00 PM",
       "CafeURL": "https://www.google.com/maps/place/Shilla+Bakery+%26+Cafe+-+Annandale/@38.8287765,-77.1939332,17z/data=!3m1!4b1!4m6!3m5!1s0x89b7b32c2cc5aadb:0x1ea2d02df1c7ae05!8m2!3d38.8287724!4d-77.1894485!16s%2Fg%2F1tcygbwq",
-      "ImageRef": "shilla_logo.jpeg",
+      "ImageRef": "https://raw.githubusercontent.com/jeffnguyenn/IT315_Project2/master/shilla_logo.jpeg",
       "Rating": "⭐️⭐️⭐️"
     },
 
@@ -23,7 +23,7 @@
       "Address": "4125 Hummer Rd, Annandale, VA 22003",
       "Hours": "7:00 AM - 11:00 PM",
       "CafeURL": "https://www.google.com/maps/place/Breeze+Bakery+Cafe/@38.8335883,-77.2122041,17z/data=!3m1!4b1!4m6!3m5!1s0x89b64cc4b69fdaff:0x42dd96ac89217631!8m2!3d38.8335841!4d-77.2100154!16s%2Fg%2F12621zr_c",
-      "ImageRef": "breeze_logo.png",
+      "ImageRef": "https://raw.githubusercontent.com/jeffnguyenn/IT315_Project2/master/breeze_logo.png",
       "Rating": "⭐️⭐️⭐️⭐️"
     },
 
@@ -32,7 +32,7 @@
       "Address": "5718 Pickwick Rd, Centreville, VA 20121",
       "Hours": "11:00 AM - 9:00 PM",
       "CafeURL": "https://www.google.com/maps/place/B%C3%B4n+Tea+House/@38.8380651,-77.4263931,17z/data=!3m1!4b1!4m6!3m5!1s0x89b6457e16471f43:0xb5a00883a0074fed!8m2!3d38.8380609!4d-77.4242044!16s%2Fg%2F11nft_q357",
-      "ImageRef": "bonteahouse_logo.jpeg",
+      "ImageRef": "https://raw.githubusercontent.com/jeffnguyenn/IT315_Project2/master/bonteahouse_logo.jpeg",
       "Rating": "⭐️⭐️⭐️⭐️⭐️"
     },
 
@@ -41,7 +41,7 @@
       "Address": "John Marr Dr unit 4243, Annandale, VA 22003",
       "Hours": "8:30 AM - 10:30 PM",
       "CafeURL": "https://www.google.com/maps/place/Tous+Les+Jours+cafe/@38.8304539,-77.1905237,17z/data=!3m1!4b1!4m6!3m5!1s0x89b7b323b68d12a5:0x693ad9f46ef35a35!8m2!3d38.8304497!4d-77.188335!16s%2Fg%2F11s42zsw7f",
-      "ImageRef": "touslesjours_logo.png",
+      "ImageRef": "https://raw.githubusercontent.com/jeffnguyenn/IT315_Project2/master/touslesjours_logo.png",
       "Rating": "⭐️⭐️⭐️⭐️⭐️"
     }
   ]
